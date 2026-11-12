@@ -6,7 +6,7 @@ Im currently...
 
 -Working on contributions to the Linux kernel and QEMU
 
--Learning C and Rust Languages
+-Learning C and Rust Languages X'D
 
 -Looking to collaborate on Open Source
 
