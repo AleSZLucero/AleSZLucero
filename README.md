@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there :)
 
-<!--
-**AleSZLucero/AleSZLucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AleSZLucero/AleSZLucero** is my special repository to explain all my contributions to Open-Source projects.
 
-Here are some ideas to get you started:
+Im currently... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Working on contributions to the Linux kernel and QEMU
+
+-Learning C and Rust Languages
+
+-Looking to collaborate on Open Source
+
+-Looking for help with recommendations, especially in: (See down this XD)
+
+-> https://lore.kernel.org/all/?q=f:aleszlucero@gmail.com 
+
+To reach me...
+
+Email: aleszlucero@gmail.com
+
+Discord: aleszlucero
+
+...
+
+I love Coffee and Ristar ;>
