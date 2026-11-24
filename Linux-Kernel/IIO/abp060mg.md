@@ -41,6 +41,8 @@ This patch fixes the transposed digits (`6985 -> 6895`) in `abp_config[ABP001PG]
 * Mailing List Thread https://lore.kernel.org/linux-iio/20261120-b4-abp060mg-fixes-v2-2-89a274d68a9a@gmail.com/
 
 ---
+
+### Diff
 ```diff
  drivers/iio/pressure/abp060mg.c | 4 ++++
  1 file changed, 4 insertions(+)
