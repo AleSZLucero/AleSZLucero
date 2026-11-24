@@ -1,5 +1,3 @@
-## mm/page_reporting: document `@order` parameter
-
 Add missing kernel-doc description for @order to fix a kernel-doc warning.
 ---
 Links...
