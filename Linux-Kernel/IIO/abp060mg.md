@@ -4,14 +4,15 @@
 
 ---
 According to the Honeywell ABP Series datasheet (Document `32305128`, Issue 2, Figure 3 and Table 7), the `001PG` gage variant has a pressure range of `0 psi` to `1 psi` (`1 psi = 6894.76 Pa`, rounded to `6895 Pa`).
-Datasheet: https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/ko-kr/products/sensors/pressure-sensors/board-mount-pressure-sensors/basic-abp-series/documents/sps-siot-basic-board-mount-pressure-abp-series-datasheet-32305128-ciid-155789.pdf
+
+[Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/ko-kr/products/sensors/pressure-sensors/board-mount-pressure-sensors/basic-abp-series/documents/sps-siot-basic-board-mount-pressure-abp-series-datasheet-32305128-ciid-155789.pdf)
 
 ---
 This patch fixes the transposed digits (`6985 -> 6895`) in `abp_config[ABP001PG]` so the driver calculates its `IIO_CHAN_INFO_SCALE` properly.
 
 ---
 
-* Mailing List Thread https://lore.kernel.org/linux-iio/20261120-b4-abp060mg-fixes-v2-1-89a274d68a9a@gmail.com/
+* [Mailing List Thread](https://lore.kernel.org/linux-iio/20261120-b4-abp060mg-fixes-v2-1-89a274d68a9a@gmail.com/)
 
 ---
 
@@ -38,7 +39,7 @@ This patch fixes the transposed digits (`6985 -> 6895`) in `abp_config[ABP001PG]
 `i2c_master_send()` and `i2c_master_recv()` return the number of transferred bytes or a negative error code. If a short I2C transfer occurs without returning a negative error, the driver previously continued and parsed uninitialized stack data from `buf`. This patch verifies that the returned byte count matches the requested length and returns `-EIO` otherwise.
 
 ---
-* Mailing List Thread https://lore.kernel.org/linux-iio/20261120-b4-abp060mg-fixes-v2-2-89a274d68a9a@gmail.com/
+* [Mailing List Thread](https://lore.kernel.org/linux-iio/20261120-b4-abp060mg-fixes-v2-2-89a274d68a9a@gmail.com/)
 
 ---
 
