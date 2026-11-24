@@ -4,26 +4,28 @@
 **AleSZLucero/AleSZLucero** is my special repository to explain all my contributions to Open-Source projects.
 
 ---
-Im currently... 
+**Im currently...** 
 
--Working on contributions to the Linux kernel and QEMU
+- Looking for help with recommendations, especially in: **(See under this XD)**
 
--Learning C and Rust Languages X'D
+- https://lore.kernel.org/all/?q=f:aleszlucero@gmail.com **(<- Here)**
+  
+- Working on contributions to the Linux Kernel, QEMU and maybe another Projects
 
--Looking to collaborate on Open Source
+- Learning C and Rust Languages X'D
 
--Looking for help with recommendations, especially in: (See down this XD)
+- Looking to collaborate on Open Source
 
--https://lore.kernel.org/all/?q=f:aleszlucero@gmail.com 
 
 ---
-To reach me...
+**To reach me...**
 
-Email: aleszlucero@gmail.com
+- **Email:** aleszlucero@gmail.com
 
-Discord: aleszlucero
+- **Discord:** [@aleszlucero] https://discord.com/users/1501125629624713257
 
 ---
 ...
 
-I love Coffee and Ristar ;>
+- I love Coffee :)
+- And Ristar XD
