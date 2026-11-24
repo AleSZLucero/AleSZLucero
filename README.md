@@ -1,4 +1,4 @@
-## Hi there :) (My contributions are probably under all this text -_-)
+## Hi there :) (My contributions are probably below or above all this text -_-)
 
 ---
 **AleSZLucero/AleSZLucero** is my special repository to explain all my contributions to Open-Source projects.
