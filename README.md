@@ -22,7 +22,7 @@
 
 - **Email:** aleszlucero@gmail.com
 
-- **Discord:** [@aleszlucero] https://discord.com/users/1501125629624713257
+- **Discord:** [@aleszlucero](https://discord.com/users/1501125629624713257)
 
 ---
 ...
