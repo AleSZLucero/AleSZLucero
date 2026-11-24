@@ -12,7 +12,7 @@
   
 - Working on contributions to the Linux Kernel, QEMU and maybe another Projects
 
-- Learning C and Rust Languages X'D
+- Learning C and Rust Languages
 
 - Looking to collaborate on Open Source
 
@@ -28,4 +28,4 @@
 ...
 
 - I love Coffee :)
-- And Ristar XD
+- And Ristar!
