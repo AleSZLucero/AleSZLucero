@@ -2,7 +2,6 @@ Add missing kernel-doc descriptions for @nr, @i, @percpu_pvec_drained, and @foli
 
 ---
 Links...
-* [**Subsystem Tree**](https://git.kernel.org/pub/scm/linux/kernel/git/akpm/25-new.git/tree/patches/mm-pagewalk-document-missing-struct-members.patch)
 * [**Mailing List Thread**](https://lore.kernel.org/linux-mm/20261112-folio-batch-doc-v1-1-e5a1c013e4d6@gmail.com/)
 
 ---
